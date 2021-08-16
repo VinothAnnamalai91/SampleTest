@@ -7,6 +7,8 @@ public class SampleTest {
 		System.out.println("Sample Test Java");
 		
 		System.out.println("Sample Test Python");
+		
+		System.out.println("Sample Coding Updated");
 	}
 
 }
