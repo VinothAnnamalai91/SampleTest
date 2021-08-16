@@ -8,7 +8,10 @@ public class SampleTest {
 		
 		System.out.println("Sample Test Python");
 		
+		System.out.println("Sample Coding Updated");
+		
 		System.out.println("Sample B Coding updated");
+
 	}
 
 }
